@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:#144d53;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+.subtitle {
+  font-family: 'Delius', cursive;
+font-size: 2.5rem;
+font-weight: normal;
+color:#010038;}
+
+h2 {
+  font-family: 'Delius', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color:#307672;
+}
+h3{font-family: 'Delius', cursive;
+color:#307672;}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color:#010038;
+  line-height: 2;
+}
+
+hr {border-color: #EAF6F6;
+border-style: dotted none none;
+border-width: 5px;
+height:0;
+width: 5%;
+margin-top: 100px;
+}
+
+.top-container {
+  margin: 0;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  background-color: #e4eddb;
+}
+
+.andrea-icon {
+  border-radius: 50%;
+}
+
+.hello{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  position: relative;
+}
+
+.profile-pic{ border-radius: 50%;
+  float: right;
+}
+
+.about-me{
+  width: 500px;
+text-align: justify;
+}
+
+.myskills{
+  margin-top: 100px
+}
+
+.skills{
+  border-radius: 50%;
+}
+
+.skillst{
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skillsc{
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.skillsa{
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.credits{
+  font-family: 'Montserrat', sans-serif;
+  }
+
+.technical{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.communication{
+  width: 50%;
+  margin: auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.additional{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.get-in-touch{
+  padding: 50px;
+}
+
+.footer{
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px;
+  background-color: #a6e3e9;
+}
+
+a:focus {text-decoration: none;
+outline: none;
+padding: 2px 1px 0}
+
+a:visited{ color: #da9833;
+}
+a:hover{color: #394a6d;
+}
